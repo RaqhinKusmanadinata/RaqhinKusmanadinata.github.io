@@ -1214,7 +1214,7 @@ section #about
 
 @media (max-width: 480px) {
   .maps iframe{
-    width: 420px;
+    width: 350px;
   }
 }
 
