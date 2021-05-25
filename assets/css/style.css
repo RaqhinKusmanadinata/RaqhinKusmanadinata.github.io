@@ -1206,6 +1206,18 @@ section #about
   }
 }
 
+@media (max-width: 592px) {
+  .maps iframe{
+    width: 500px;
+  }
+}
+
+@media (max-width: 480px) {
+  .maps iframe{
+    width: 445px;
+  }
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
