@@ -1218,6 +1218,12 @@ section #about
   }
 }
 
+@media (max-width: 365px) {
+  .maps iframe{
+    width: 290px;
+  }
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
