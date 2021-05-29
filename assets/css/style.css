@@ -1202,25 +1202,25 @@ section #about
 
 @media (max-width: 766px) {
   .maps iframe{
-    width: 515px;
+    width: 500px;
   }
 }
 
 @media (max-width: 592px) {
   .maps iframe{
-    width: 500px;
+    width: 460px;
   }
 }
 
 @media (max-width: 480px) {
   .maps iframe{
-    width: 350px;
+    width: 380px;
   }
 }
 
-@media (max-width: 365px) {
+@media (max-width: 390px) {
   .maps iframe{
-    width: 350px;
+    width: 290px;
   }
 }
 
