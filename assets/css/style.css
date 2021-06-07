@@ -451,6 +451,20 @@ section #about
   margin-bottom: 0;
 }
 
+.about .download
+{
+  padding: 8px;
+  background-color: #d1b277;
+  color: white;
+  border-radius: 5px;
+}
+
+.about .download:hover
+{
+  color: black;
+  background-color: white;
+  transition: 0.5s ease;
+}
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -1180,48 +1194,6 @@ section #about
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #45505b;
-}
-
-@media (min-width: 995px) {
-  .maps iframe{
-    width: 580px;
-  }
-}
-
-@media (max-width: 994px) {
-  .maps iframe{
-    width: 700px;
-  }
-}
-
-@media (max-width: 880px) {
-  .maps iframe{
-    width: 690px;
-  }
-}
-
-@media (max-width: 766px) {
-  .maps iframe{
-    width: 500px;
-  }
-}
-
-@media (max-width: 592px) {
-  .maps iframe{
-    width: 460px;
-  }
-}
-
-@media (max-width: 480px) {
-  .maps iframe{
-    width: 380px;
-  }
-}
-
-@media (max-width: 390px) {
-  .maps iframe{
-    width: 290px;
-  }
 }
 
 @-webkit-keyframes animate-loading {
